@@ -1,6 +1,6 @@
 # OpenSourceMidterm
 
-acik kaynak kodlu yazilimlar vize sınaıc
+acik kaynak kodlu yazilimlar vize sınavı
 
 istekleri github.com'a yönlendiren uygulaması
 
